@@ -30,5 +30,11 @@
         android:id="@+id/tv1"
         android:text="this is text"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv4"
+        android:text="this is text"/>
+
 
 </LinearLayout>
